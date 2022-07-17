@@ -33,7 +33,7 @@
   * Express
   
   ## Usage Information<a name="usage"></a>
-  [Deep Thoughts (MERN)]()</br>
+  [Deep Thoughts (MERN)](https://shrouded-sea-61984.herokuapp.com/)</br>
   This application is suitable for short-form text discussion.</br>
   </br>![Deep Thoughts (MERN)](./deep-thoughts.png "Deep Thoughts (MERN)")</br>
   
