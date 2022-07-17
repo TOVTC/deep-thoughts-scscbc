@@ -33,7 +33,7 @@
   * Express
   
   ## Usage Information<a name="usage"></a>
-  [Deep Thoughts (MERN)](https://tovtc.github.io/react-portfolio-scscbc-challenge/)</br>
+  [Deep Thoughts (MERN)]()</br>
   This application is suitable for short-form text discussion.</br>
   </br>![Deep Thoughts (MERN)](./deep-thoughts.png "Deep Thoughts (MERN)")</br>
   
